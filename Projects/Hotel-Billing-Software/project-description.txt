@@ -1,0 +1,64 @@
+HOTEL BILLING SOFTWARE
+
+PROJECT OVERVIEW
+
+Hotel Billing Software is a full-stack web application designed to
+support hotel and restaurant operations, including menu management,
+table management, order processing, billing, and sales reporting.
+
+TECHNOLOGY STACK
+
+Frontend: - React.js - Vite - JavaScript - Axios - React Router -
+Bootstrap 5 and/or Tailwind CSS (keep only the framework used in the
+showcased version)
+
+Backend: - Java - Spring Boot - Spring Data JPA - Hibernate - REST
+APIs - Lombok (if used)
+
+Database: - MySQL
+
+KEY FEATURES
+
+-   Role-based login for Admin and Staff.
+-   Menu management: item name, item code, short name, price, category,
+    subcategory, and description.
+-   Table management: table name, section, type, and capacity.
+-   Order creation and order-item management.
+-   Kitchen Order Ticket (KOT) workflow.
+-   Running bill management and bill storage.
+-   Sales reports: day-wise, item-wise, category-wise, and user-wise.
+-   Thermal receipt printing integration (include this only if it works
+    in the version being showcased).
+
+ORDER WORKFLOW
+
+1.  Staff selects menu items and adds them to an order.
+2.  The order can be saved as a Kitchen Order Ticket (KOT).
+3.  Kitchen staff use the KOT to prepare the order.
+4.  The bill is reviewed and finalized through the billing workflow.
+5.  Saved bills can be accessed for reference and reporting.
+
+MY CONTRIBUTION
+
+Project role: [Enter your actual role]
+
+Add only work you personally completed: - [Frontend components and pages
+developed] - [Backend APIs or services developed] - [Database design and
+integration completed] - [Testing, debugging, or deployment work
+completed]
+
+PROJECT STATUS
+
+[In development / Completed / Deployed]
+
+LIVE DEMO
+
+[Add the live demo URL, or write: Not currently available.]
+
+VERIFICATION NOTE
+
+This starter description is based on the project information shared so
+far. Before publishing, verify every feature and technology against the
+current code. Remove anything that is not implemented or working in the
+version you showcase. Replace all bracketed placeholders with accurate
+information.

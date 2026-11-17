@@ -1,0 +1,23 @@
+HOTEL BILLING SOFTWARE - GITHUB REPOSITORY
+
+GitHub Repository URL: [Paste the exact GitHub repository URL here]
+
+Repository Name: [Enter the repository name]
+
+Repository Visibility: [Public / Private]
+
+Frontend Repository or Folder: [Add the frontend repository URL or
+folder details]
+
+Backend Repository or Folder: [Add the backend repository URL or folder
+details]
+
+Live Demo URL: [Add the live demo URL, or write: Not available.]
+
+NOTES
+
+-   Do not guess or invent a GitHub URL.
+-   If the repository is private, do not publish it without checking for
+    company, client, or other confidential code.
+-   Confirm that the repository README, screenshots, and setup
+    instructions are safe to share.

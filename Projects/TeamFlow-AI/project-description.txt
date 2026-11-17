@@ -1,0 +1,65 @@
+TEAMFLOW-AI - SAAS TEAM COLLABORATION PLATFORM
+
+PROJECT OVERVIEW
+
+TeamFlow-AI is a SaaS-style team collaboration and project management
+platform. It is designed to organize work across different user roles
+and provide role-based dashboards for managing projects, tasks, teams,
+and collaboration.
+
+TECHNOLOGY STACK
+
+Frontend: - React.js - JavaScript - [Add styling framework actually
+used, such as Tailwind CSS or Bootstrap]
+
+Backend: - [Enter backend technology and framework, if implemented]
+
+Database: - [Enter database technology, if implemented]
+
+APIs and Integrations: - REST API [include only if implemented] - AI
+integration [add provider/model and describe its actual use, if
+implemented]
+
+ROLE-BASED DASHBOARDS
+
+The application is designed around the following roles: - Super Admin -
+Company Admin - Team Lead - Employee / Member
+
+The navigation, available features, permissions, and dashboard data
+should reflect the access granted to each role.
+
+FEATURE AREAS
+
+Include only the features that are implemented in the version being
+showcased: - Task management - Project management - Assigned bug
+tracking - Calendar and scheduling - File management - Team chat and
+collaboration - Meeting management - Team activity and progress views -
+Role-based settings and permissions - AI assistant or AI-powered
+workflows
+
+MY CONTRIBUTION
+
+Project role: [Enter your actual role]
+
+Describe only the work you personally completed: - [UI/UX design or
+dashboard development] - [React components and pages developed] -
+[Role-based navigation or permission handling] - [API integration or
+backend development] - [Testing, debugging, or deployment work]
+
+PROJECT STATUS
+
+[In development / Completed / Deployed]
+
+LIVE DEMO
+
+[Add the live demo URL, or write: Not currently available.]
+
+VERIFICATION NOTE
+
+This starter description is based on the TeamFlow-AI project details
+shared so far. Verify the current codebase before publishing. Remove any
+feature or technology that is planned, incomplete, or not available in
+the version being showcased. Replace all bracketed placeholders with
+accurate information. Do not claim that AI functionality, backend
+services, or integrations work unless you have verified them in the
+project.
